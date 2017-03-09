@@ -1,3 +1,5 @@
+pragma solidity ^0.4.5;
+
 contract StringStore {
 	string public myString;
 	address public updater;

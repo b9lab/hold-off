@@ -1,3 +1,5 @@
+pragma solidity ^0.4.5;
+
 contract HoldOff {
 	address public owner;
 	event LogRequest(
